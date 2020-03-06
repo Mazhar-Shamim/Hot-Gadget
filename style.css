@@ -1,0 +1,45 @@
+.navbar{
+    background-color: white !important;
+}
+.container{
+    margin-bottom: 55px;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 7px;
+    border: none;
+}
+.orange{
+    color: orange;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.smartphone{
+   text-align: center;
+}
+.card img{
+    padding: 30px 50px;
+}
+.laptop{
+    text-align: center;
+}
+.man{
+    text-align: center;
+}
+.cat1, .cat2, .cat3{
+    box-shadow: 5px 5px 25px lightgray;
+    padding: 25px 45px;
+    border-radius: 10px 3px 15px 3px;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+}
